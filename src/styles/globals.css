@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+/* --vd1: #BFFFC6; --vd2: #16FF2D; --vd3: #13CF25; --vd4: #076E11; --vd5: #043009;  */
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: cursive, Helvetica, sans-serif;
+}
